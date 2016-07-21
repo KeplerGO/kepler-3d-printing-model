@@ -11,15 +11,15 @@ Printable files are of Kepler spacecraft in constructable configuration.
 This model was created for educational purposes, and as such files are scaled for durability where appropriate.
 
 Recommended print settings:
--Solid print density
--Soluble support structure
--Existing file orientation (printer varying)
+* Solid print density
+* Soluble support structure
+* Existing file orientation (printer varying)
 
 Reference files can be found at: http://kepler.nasa.gov/images/3d/
 
 The following software was used to create the printable files:
--Blender 2.77
--NetFabb Private 5.2
+* Blender 2.77
+* NetFabb Private 5.2
 
 ## Credits
 -Kepler team

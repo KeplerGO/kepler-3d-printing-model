@@ -22,9 +22,10 @@ The following software was used to create the printable files:
 * NetFabb Private 5.2
 
 ## Credits
--Kepler team
-	-Charlie Sobeck  
-	-Wendy Stenzel 
--NASA Ames SpaceShop Rapid Prototyping Facility
-	-Randall Ticknor
-	-Alex Mazhari
+Kepler team:
+* Charlie Sobeck  
+* Wendy Stenzel 
+
+NASA Ames SpaceShop Rapid Prototyping Facility
+* Randall Ticknor
+* Alex Mazhari

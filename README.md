@@ -6,5 +6,28 @@ Kepler is a space telescope launched by NASA in 2009 to determine the frequency 
 
 ## Print your own Kepler
 
+With the help of the NASA Ames SpaceShop Rapid Prototyping Facility, the Kepler office has created a 3D puzzle which you can print to build your own mini planet hunter!  The puzzle was created for educational purposes, and as such the model files were scaled and simplified for durability where appropriate. The results looks like this:
+
 ![Preview](preview/kepler-lego-model-preview1.jpg)
 ![Preview](preview/kepler-lego-model-preview2.jpg)
+
+## Recommended print settings
+
+You may achieve the best results using the following settings:
+* Solid print density
+* Soluble support structure
+* Existing file orientation (printer varying)
+
+## Credits
+
+NASA Ames SpaceShop Rapid Prototyping Facility
+* Randall Ticknor
+* Alex Mazhari
+
+Kepler team:
+* Charlie Sobeck
+* Wendy Stenzel
+
+The following software was used to create the printable files:
+* Blender 2.77
+* NetFabb Private 5.2

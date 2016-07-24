@@ -2,7 +2,9 @@
 
 Ever wanted to manufacture your own planet-finding spacecraft? Now you can!
 
-With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://www.nasa.gov/centers/ames/spaceshop/home), the Kepler mission has created a 3D puzzle which you can print to build your own mini planet hunter.  The puzzle was created for educational purposes, and as such the model files were scaled and simplified for durability where appropriate. The results looks like this:
+With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://www.nasa.gov/centers/ames/spaceshop/home), the Kepler mission has created a 3D puzzle which you can print to build your own mini planet hunter.  The puzzle was created for educational purposes, and as such the model files were scaled and simplified for durability where appropriate. 
+
+## Preview
 
 [![Preview](preview/kepler-lego-model-preview1.jpg)](preview/kepler-lego-model-preview1.jpg)
 [![Preview](preview/kepler-lego-model-preview2.jpg)](preview/kepler-lego-model-preview2.jpg)

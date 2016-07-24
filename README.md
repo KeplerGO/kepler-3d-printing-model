@@ -1,6 +1,14 @@
 # Print your own Kepler Spacecraft 3D Puzzle!
 
-Ever wanted to manufacture your own planet-finding spacecraft? Now you can!
+Ever wanted to build your own exoplanet-hunting spacecraft? Now you can!
+
+* [Introduction](#Introduction)
+* [Preview](#Preview)
+* [Components](#Components)
+* [Recommended print settings](#Recommended print settings)
+* [Credits](#Credits)
+
+# Introduction
 
 With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://www.nasa.gov/centers/ames/spaceshop/home), the Kepler mission has created a 3D puzzle which you can print to build your own mini planet hunter.  The puzzle was created for educational purposes, and as such the model files were scaled and simplified for durability where appropriate. 
 
@@ -35,6 +43,7 @@ You may achieve the best results using the following settings:
 * Solid print density
 * Soluble support structure
 * Existing file orientation (printer varying)
+
 
 ## Credits
 

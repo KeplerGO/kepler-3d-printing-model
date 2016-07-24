@@ -1,0 +1,8 @@
+![Preview](kepler-lego-model-preview1.jpg)
+![Preview](kepler-lego-model-preview2.jpg)
+![Preview](kepler-lego-model-preview3.jpg)
+![Preview](preview-photometer.png)
+![Preview](preview-sun-shade.png)
+![Preview](preview-base.png)
+![Preview](preview-stand.png)
+![Preview](preview-solar-array.png)

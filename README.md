@@ -22,7 +22,7 @@ If you decide to print this model, or if you end up using it for educational pur
 
 ## Preview
 
-The images below show the 3D model as printed at the NASA Ames SpaceShop.  The model consists of five seperate pieces which come apart as a puzzle:
+The images below show the 3D model as printed at the NASA Ames SpaceShop.  Note that the model consists of five individually-printed pieces which combine to form the full spacecraft as a fun puzzle.
 
 [![Preview](preview/kepler-lego-model-preview1.jpg)](preview/kepler-lego-model-preview1.jpg)
 [![Preview](preview/kepler-lego-model-preview2.jpg)](preview/kepler-lego-model-preview2.jpg)

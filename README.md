@@ -18,7 +18,7 @@ With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://ww
 * [Credits](#credits)
 * [Caution](#caution)
 
-If you decide to have a go at printing this model, or if you are using this puzzle as part of any outreach activities, then we would love to hear about your experiences. Please consider sharing a photograph of your experiment by opening a [pull request](pulls), or contact us at keplergo@mail.arc.nasa.gov.
+If you decide to print this model, or if you end up using it for educational purposes, we would love to hear about your experiences. Please consider sharing a photograph of your experiment by opening a [pull request](pulls) or contact us at keplergo@mail.arc.nasa.gov.
 
 ## Preview
 
@@ -85,6 +85,6 @@ The contents of this repository are in the public domain.
 
 ## Caution
 
-We recommend that you refrain from placing the spacecraft on top of a cactus, as it may harm the scientific instruments!
+We recommend against placing the spacecraft on top of a cactus, as it may harm the scientific instruments!
 
 [![Preview](preview/kepler-lego-model-preview3.jpg)](preview/kepler-lego-model-preview3.jpg)

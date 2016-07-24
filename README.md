@@ -4,7 +4,9 @@ Ever wanted to build your own exoplanet-hunting spacecraft? Now you can!
 
 With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://www.nasa.gov/centers/ames/spaceshop/home), the Kepler mission has created a 3D puzzle which you can print to build your own mini planet hunter.  The puzzle was created for educational purposes, and as such the model files were scaled and simplified for durability where appropriate. 
 
-<img src="preview/kepler-lego-model-preview1-crop.jpg" align="right" width="360">
+If you have a go at printing this model, we would love to hear about your experience. Please consider sharing a photograph of your experiment by opening a [pull request](pulls) or contacting us at keplergo@mail.arc.nasa.gov.
+
+<img src="preview/kepler-lego-model-preview1-crop.jpg" align="right" width="320">
 
 * [Preview](#preview)
 * [Model files](#model-files)
@@ -19,7 +21,7 @@ With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://ww
 
 ## Preview
 
-The images below show the 3D model as printed at the NASA Ames SpaceShop.  We would love to include photos of your own printing results, so please consider sharing your photographs them by opening a [pull request](pulls) or sending an e-mail to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov).
+The images below show the 3D model as printed at the NASA Ames SpaceShop.
 
 [![Preview](preview/kepler-lego-model-preview1.jpg)](preview/kepler-lego-model-preview1.jpg)
 [![Preview](preview/kepler-lego-model-preview2.jpg)](preview/kepler-lego-model-preview2.jpg)

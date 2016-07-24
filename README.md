@@ -55,7 +55,8 @@ The model file is called  [model-files/base.stl](model-files/base.stl).
 [![Preview](preview/preview-stand.png)](model-files/stand.stl)
 
 ### Full spacecraft
-In addition to the components, we also provide the full spacecraft as a single model file. **Note however that we have not verified the ability of 3D printers to print the entire spacecraft in one go, and expect that such attempts will require modifications (or glue).** If you decide to have a go at printing the spacecraft in one go, we would love to hear about your experiences. The model is called [model-files/full-spacecraft/kepler-spacecraft.stl](model-files/full-spacecraft/kepler-spacecraft.stl).
+In addition to the individual components above, we also provide the full spacecraft as a single model file (albeit excluding the stand).  This file was modified slightly to alter the tolerances at the joints. A dab of regular instant glue may be placed at any major connection point to permanently fuse the plastic. The stand file can be printed separately to compliment this model if desired. 
+The model file is called [model-files/full-spacecraft/kepler-spacecraft.stl](model-files/full-spacecraft/kepler-spacecraft.stl).
 [![Preview](preview/preview-full-spacecraft.png)](model-files/full-spacecraft/kepler-spacecraft.stl)
 
 ## Printing tips

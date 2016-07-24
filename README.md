@@ -11,7 +11,8 @@ With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://ww
   * [Solar array](#solar-array)
   * [Sun shade](#sun-shade)
   * [Stand](#stand)
-* [Recommended print settings](#recommended-print-settings)
+  * [Full spacecraft](#full-spacecraft)
+* [Printing tips](#printing-tips)
 * [Credits](#credits)
 
 ## Preview
@@ -48,17 +49,17 @@ The *stand* allows the 3D-printed model to be displayed on a flat surface.  It i
 The model file is called  [model-files/base.stl](model-files/base.stl).
 [![Preview](preview/preview-stand.png)](model-files/stand.stl)
 
+### Full spacecraft
+This repository also provides a model file for the full spacecraft. **Note however that we have not verified the ability of 3D printers to print the entire spacecraft in one go, and we expect that modifications (or glue) will be required to enable the full spacecraft to be printed in one go.** Nevertheless, we would love to learn about your experiences with this model file! It is called [model-files/full-spacecraft/kepler-spacecraft.stl](model-files/full-spacecraft/kepler-spacecraft.stl).
+[![Preview](preview/preview-full-spacecraft.png)](model-files/full-spacecraft/kepler-spacecraft.stl)
 
-## Recommended print settings
-
+## Printing tips
 You may achieve the best results using the following settings:
 * Solid print density
 * Soluble support structure
 * Existing file orientation (printer varying)
 
-
 ## Credits
-
 The 3D puzzle model files in this repository were derived from the [http://kepler.nasa.gov/multimedia/3dmodels/](original 3D Model Files made available on the NASA Kepler website). For the purpose of making them suitable for 3D printing, the original model files were scaled and simplified for durability. Credits go to:
 
 NASA Ames SpaceShop Rapid Prototyping Facility

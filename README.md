@@ -1,24 +1,66 @@
 # Print your own Kepler Spacecraft 3D Puzzle!
 
-Ever wanted to manufacture your own planet-finding spacecraft? Now you can!
+Ever wanted to build your own exoplanet-hunting spacecraft? Now you can!
+
+With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://www.nasa.gov/centers/ames/spaceshop/home), the Kepler mission has created a 3D puzzle which you can print to build your own mini planet hunter.  The puzzle was created for educational purposes, and as such the model files were scaled and simplified for durability where appropriate. 
+
+* [Preview](#preview)
+* [Model files](#model-files)
+  * [Photometer](#photometer)
+  * [Base](#base)
+  * [Solar array](#solar-array)
+  * [Sun shade](#sun-shade)
+  * [Stand](#stand)
+  * [Full spacecraft](#full-spacecraft)
+* [Printing tips](#printing-tips)
+* [Credits](#credits)
+
+## Preview
+
+The images below show the 3D model as printed at the NASA Ames SpaceShop.  We would love to include photos of your own printing results, so please consider sharing your photographs them by opening a [pull request](pulls) or sending an e-mail to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov).
+
+[![Preview](preview/kepler-lego-model-preview1.jpg)](preview/kepler-lego-model-preview1.jpg)
+[![Preview](preview/kepler-lego-model-preview2.jpg)](preview/kepler-lego-model-preview2.jpg)
+
+## Model files
 
 Kepler is a space telescope launched by NASA in 2009 to determine the frequency of Earth-size planets in or near the habitable zone of other stars in our Galaxy.  It does this by searching for periodic dips in the brightness of stars, indicative of exoplanets transiting across their host stars, using a space telescope that is about 2.7 meters in diameter and 4.7 meters high. The telescope's main mirror is 0.95 meters in diameter.
 
-## Print your own Kepler
+### Photometer
+The *photometer* hosts the telescope optics and the 84-CCD camera. The model file is called  [model-files/photometer.stl](model-files/photometer.stl).
+[![Preview](preview/preview-photometer.png)](model-files/photometer.stl)
 
-With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://www.nasa.gov/centers/ames/spaceshop/home), the Kepler office has created a 3D puzzle which you can print to build your own mini planet hunter!  The puzzle was created for educational purposes, and as such the model files were scaled and simplified for durability where appropriate. The results looks like this:
+### Base
+The *base* contains the electronics to control the spacecraft. The exterior has the antennae and reaction wheels attached to the side. The model file is called [model-files/base.stl](model-files/base.stl).
+[![Preview](preview/preview-base.png)](model-files/base.stl)
 
-![Preview](preview/kepler-lego-model-preview1.jpg)
-![Preview](preview/kepler-lego-model-preview2.jpg)
+### Solar array
+The *solar array* shields the photometer from sunlight and generates electricity for the spacecraft to operate.
+The model file is called[model-files/solar-array.stl](model-files/solar-array.stl).
+[![Preview](preview/preview-solar-array.png)](model-files/solar-array.stl)
 
-## Recommended print settings
+### Sun shade
+The *sun-shade* keeps sunlight from entering into the telescope.
+The model file is called  [model-files/sun-shade.stl](model-files/sun-shade.stl).
+[![Preview](preview/preview-sun-shade.png)](model-files/sun-shade.stl)
 
+### Stand
+The *stand* allows the 3D-printed model to be displayed on a flat surface.  It is *not* an actual part of the spacecraft.
+The model file is called  [model-files/base.stl](model-files/base.stl).
+[![Preview](preview/preview-stand.png)](model-files/stand.stl)
+
+### Full spacecraft
+This repository also provides a model file for the full spacecraft. **Note however that we have not verified the ability of 3D printers to print the entire spacecraft in one go, and we expect that modifications (or glue) will be required to enable the full spacecraft to be printed in one go.** Nevertheless, we would love to learn about your experiences with this model file! It is called [model-files/full-spacecraft/kepler-spacecraft.stl](model-files/full-spacecraft/kepler-spacecraft.stl).
+[![Preview](preview/preview-full-spacecraft.png)](model-files/full-spacecraft/kepler-spacecraft.stl)
+
+## Printing tips
 You may achieve the best results using the following settings:
 * Solid print density
 * Soluble support structure
 * Existing file orientation (printer varying)
 
 ## Credits
+The 3D puzzle model files in this repository were derived from the [http://kepler.nasa.gov/multimedia/3dmodels/](original 3D Model Files made available on the NASA Kepler website). For the purpose of making them suitable for 3D printing, the original model files were scaled and simplified for durability. Credits go to:
 
 NASA Ames SpaceShop Rapid Prototyping Facility
 * Randall Ticknor
@@ -31,3 +73,5 @@ Kepler team:
 The following software was used to create the printable files:
 * Blender 2.77
 * NetFabb Private 5.2
+
+The contents of this repository are in the public domain.

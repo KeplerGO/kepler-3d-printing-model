@@ -9,7 +9,7 @@ With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://ww
 * [Preview](#preview)
 * [Model files](#model-files)
   * [Photometer](#photometer)
-  * [Base](#base)
+  * [Spacecraft](#spacecraft)
   * [Solar array](#solar-array)
   * [Sun shade](#sun-shade)
   * [Stand](#stand)
@@ -29,14 +29,14 @@ The images below show the 3D model as printed at the NASA Ames SpaceShop.  Note 
 
 ## Model files
 
-Kepler is a space telescope launched by NASA in 2009 to determine the frequency of Earth-size planets in or near the habitable zone of other stars in our Galaxy.  It does this by searching for periodic dips in the brightness of stars, indicative of exoplanets transiting across their host stars, using a space telescope that is about 2.7 meters in diameter and 4.7 meters high. The telescope's main mirror is 0.95 meters in diameter.
+Kepler is a space telescope launched by NASA in 2009 to determine the frequency of Earth-size planets in or near the habitable zone of other stars in our Galaxy.  It does this by searching for periodic dips in the brightness of stars, indicative of exoplanets transiting across their host stars, using a space telescope that is about 2.7 meters in diameter and 4.7 meters high. The telescope's primary mirror is 1.5 meters in diameter.
 
 ### Photometer
 The *photometer* hosts the telescope optics and the 84-CCD camera. The model file is called  [model-files/photometer.stl](model-files/photometer.stl).
 [![Preview](preview/preview-photometer.png)](model-files/photometer.stl)
 
-### Base
-The *base* contains the electronics to control the spacecraft. The exterior has the antennae and reaction wheels attached to the side. The model file is called [model-files/base.stl](model-files/base.stl).
+### Spacecraft
+The *spacecraft* contains the electronics required to control the telescope. Attached to the exterior you can see the antennae, reaction wheels, and thursters. The model file is called [model-files/base.stl](model-files/base.stl).
 [![Preview](preview/preview-base.png)](model-files/base.stl)
 
 ### Solar array
@@ -51,7 +51,7 @@ The model file is called  [model-files/sun-shade.stl](model-files/sun-shade.stl)
 
 ### Stand
 The *stand* allows the 3D-printed model to be displayed on a flat surface.  It is *not* an actual part of the spacecraft.
-The model file is called  [model-files/base.stl](model-files/base.stl).
+The model file is called  [model-files/stand.stl](model-files/stand.stl).
 [![Preview](preview/preview-stand.png)](model-files/stand.stl)
 
 ### Full spacecraft

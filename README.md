@@ -36,7 +36,7 @@ The *photometer* hosts the telescope optics and the 84-CCD camera. The model fil
 [![Preview](preview/preview-photometer.png)](model-files/photometer.stl)
 
 ### Spacecraft
-The *spacecraft* contains the electronics required to control the telescope. Attached to the exterior you can see the antennae, reaction wheels, and thursters. The model file is called [model-files/spacecraft.stl](model-files/spacecraft.stl).
+The *spacecraft* contains the electronics required to control the telescope. Attached to the exterior you can see the antennae, reaction wheels, and thrusters. The model file is called [model-files/spacecraft.stl](model-files/spacecraft.stl).
 [![Preview](preview/preview-spacecraft.png)](model-files/spacecraft.stl)
 
 ### Solar array

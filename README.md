@@ -41,21 +41,21 @@ The *spacecraft* contains the electronics required to control the telescope. Att
 
 ### Solar array
 The *solar array* shields the photometer from sunlight and generates electricity for the spacecraft to operate.
-The model file is called[model-files/solar-array.stl](model-files/solar-array.stl).
+The model file is called [model-files/solar-array.stl](model-files/solar-array.stl).
 [![Preview](preview/preview-solar-array.png)](model-files/solar-array.stl)
 
 ### Sun shade
 The *sun-shade* keeps sunlight from entering into the telescope.
-The model file is called  [model-files/sun-shade.stl](model-files/sun-shade.stl).
+The model file is called [model-files/sun-shade.stl](model-files/sun-shade.stl).
 [![Preview](preview/preview-sun-shade.png)](model-files/sun-shade.stl)
 
 ### Stand
 The *stand* allows the 3D-printed model to be displayed on a flat surface.  It is *not* an actual part of the spacecraft.
-The model file is called  [model-files/stand.stl](model-files/stand.stl).
+The model file is called [model-files/stand.stl](model-files/stand.stl).
 [![Preview](preview/preview-stand.png)](model-files/stand.stl)
 
 ### Full spacecraft
-In addition to the individual components above, we also provide the full spacecraft as a single model file (albeit excluding the stand).  This file was modified slightly to alter the tolerances at the joints. A dab of regular instant glue may be placed at any major connection point to permanently fuse the plastic. The stand file can be printed separately to compliment this model if desired. 
+In addition to the individual components above, we also provide the full spacecraft as a single model file (albeit excluding the stand).  This file was modified slightly to alter the tolerances at the joints. A dab of regular instant glue may be placed at any major connection point to permanently fuse the plastic. The stand file can be printed separately to complement this model if desired. 
 The model file is called [model-files/full-spacecraft/kepler-spacecraft.stl](model-files/full-spacecraft/kepler-spacecraft.stl).
 [![Preview](preview/preview-full-spacecraft.png)](model-files/full-spacecraft/kepler-spacecraft.stl)
 

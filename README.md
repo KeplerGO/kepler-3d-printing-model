@@ -68,15 +68,15 @@ We achieved the best results using the following settings:
 We encourage you to open a [pull request](pulls) to add additional tips!
 
 ## Credits
-The 3D puzzle model files in this repository were derived from the [http://kepler.nasa.gov/multimedia/3dmodels/](original 3D Model Files made available on the NASA Kepler website). For the purpose of making them suitable for 3D printing, the original model files were scaled and simplified for durability. Credits:
+The 3D puzzle model files in this repository were derived from the original files found at  [http://kepler.nasa.gov/multimedia/3dmodels/](http://kepler.nasa.gov/multimedia/3dmodels/). For the purpose of making them suitable for 3D printing, the original model files were scaled and simplified for durability.
 
-NASA Ames SpaceShop Rapid Prototyping Facility
-* Randall Ticknor
-* Alex Mazhari
-
-Kepler team:
-* Charlie Sobeck
-* Wendy Stenzel
+Credits for this effort belong to:
+* NASA Ames SpaceShop Rapid Prototyping Facility
+ * Randall Ticknor
+ * Alex Mazhari
+* Kepler team:
+ * Charlie Sobeck
+ * Wendy Stenzel
 
 The following software was used to create the printable files:
 * Blender 2.77

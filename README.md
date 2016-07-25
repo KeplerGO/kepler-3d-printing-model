@@ -77,6 +77,7 @@ Credits for this effort belong to:
 * Kepler team:
  * Charlie Sobeck
  * Wendy Stenzel
+ * Geert Barentsen
 
 The following software was used to create the printable files:
 * Blender 2.77

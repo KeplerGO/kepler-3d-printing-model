@@ -20,6 +20,8 @@ With the help of the [NASA Ames SpaceShop Rapid Prototyping Facility](https://ww
 
 If you decide to print this model, or if you end up using it for educational purposes, we would love to hear about your experiences. Please consider sharing a photograph of your experiment by opening a [pull request](pulls) or contact us at keplergo@mail.arc.nasa.gov.
 
+A photo gallery showing the 3D-printed results obtained by Stephen Kane is available at http://physics.sfsu.edu/~skane/kepler/
+
 ## Preview
 
 The images below show the 3D model as printed at the NASA Ames SpaceShop.  Note that the model consists of five individually-printed pieces which combine to form the full spacecraft as a fun puzzle.

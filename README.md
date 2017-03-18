@@ -48,8 +48,8 @@ The model file is called [model-files/solar-array.stl](model-files/solar-array.s
 
 ### Sun shade
 The *sun-shade* keeps sunlight from entering into the telescope.
-The model file is called [model-files/sun-shade.stl](model-files/sun-shade.stl).
-[![Preview](preview/preview-sun-shade.png)](model-files/sun-shade.stl)
+The model file is called [model-files/sun-shield.stl](model-files/sun-shield.stl).
+[![Preview](preview/preview-sun-shade.png)](model-files/sun-shield.stl)
 
 ### Stand
 The *stand* allows the 3D-printed model to be displayed on a flat surface.  It is *not* an actual part of the spacecraft.
